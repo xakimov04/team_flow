@@ -1,1 +1,1 @@
-[video](video/video.mp4)
+![video](video/video.mp4)
